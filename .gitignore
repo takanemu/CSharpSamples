@@ -1,0 +1,6 @@
+
+*.suo
+/MixinCSharp4/bin/Debug
+/MixinCSharp4/bin/Release
+/MixinCSharp4/obj/x86/Debug
+/MixinCSharp4/obj/x86/Release
