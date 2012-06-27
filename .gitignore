@@ -16,3 +16,5 @@
 /GordiasClassLibrary/bin/Release
 /GordiasClassLibrary/obj/Debug
 /GordiasClassLibrary/obj/Release
+/ParallelTest/bin/Debug
+/ParallelTest/obj/x86/Debug
