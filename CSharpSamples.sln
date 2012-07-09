@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixinCSharp4", "MixinCSharp4\MixinCSharp4.csproj", "{3ED971CF-F952-409C-9986-582E928A28BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakReferenceTest", "WeakReferenceTest\WeakReferenceTest.csproj", "{10D93445-D379-47F8-8713-A38CCB45BADA}"
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest", "TaskTest\TaskTest.csproj", "{099C6620-0139-4D20-B4F4-129568889F97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelTest", "ParallelTest\ParallelTest.csproj", "{CCD65EBA-CAC6-493F-861F-8FE0F4E2CCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutorTest", "ExecutorTest\ExecutorTest.csproj", "{CE805792-5F88-4F6D-9190-DEB1963190D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,16 @@ Global
 		{CCD65EBA-CAC6-493F-861F-8FE0F4E2CCD8}.Release|Mixed Platforms.Build.0 = Release|x86
 		{CCD65EBA-CAC6-493F-861F-8FE0F4E2CCD8}.Release|x86.ActiveCfg = Release|x86
 		{CCD65EBA-CAC6-493F-861F-8FE0F4E2CCD8}.Release|x86.Build.0 = Release|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Debug|x86.ActiveCfg = Debug|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Debug|x86.Build.0 = Debug|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Release|Any CPU.ActiveCfg = Release|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Release|x86.ActiveCfg = Release|x86
+		{CE805792-5F88-4F6D-9190-DEB1963190D7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
