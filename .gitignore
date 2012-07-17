@@ -24,3 +24,8 @@
 /ExecutorTest\bin/Debug
 /ExecutorTest\obj\x86/Debug
 Debug
+
+/ExecutorTest/bin/Release
+/ExecutorTest/obj/x86/Release
+/ParallelTest/bin/Release
+/ParallelTest/obj/x86/Release
